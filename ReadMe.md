@@ -10,4 +10,3 @@ Vavildi /edge / Chrome  扩展
 
 [file]: https://github.com/vitock/hl-checkin-chromeEx/raw/master/dis.crx 
 
-git@github.com:vitock/-hl-checkin-chromeEx.git
